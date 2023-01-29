@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ssl.h": "c",
+        "cstdio": "c",
+        "*.tcc": "c"
+    }
+}
