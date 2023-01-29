@@ -111,5 +111,3 @@ short downloadFile(void)
 
     return 0;
 }
-
-
